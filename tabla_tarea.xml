@@ -1,0 +1,151 @@
+<DATA>
+	<ROW>
+		<IDTAR>idtar-1</IDTAR>
+		<DES>Visitar a la abuela el 5 de abril</DES>
+		<IDCLI>idcli-1</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-10</IDTAR>
+		<DES>Felicitar a la prima el 7 de agosto</DES>
+		<IDCLI>idcli-10</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-11</IDTAR>
+		<DES>Limpiar mañana por la mañana la casa</DES>
+		<IDCLI>idcli-2</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-12</IDTAR>
+		<DES>Hacer la compra</DES>
+		<IDCLI>idcli-8</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-13</IDTAR>
+		<DES>Reparar la puerta del garaje</DES>
+		<IDCLI>idcli-4</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-14</IDTAR>
+		<DES>Llevar el coche al taller</DES>
+		<IDCLI>idcli-2</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-15</IDTAR>
+		<DES>Cortar el cesped por la tarde</DES>
+		<IDCLI>idcli-6</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-16</IDTAR>
+		<DES>Preparar presentacion para el 27 de abril</DES>
+		<IDCLI>idcli-1</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-17</IDTAR>
+		<DES>Reunion de trabajo</DES>
+		<IDCLI>idcli-5</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-18</IDTAR>
+		<DES>Limpiar los cristales del coche</DES>
+		<IDCLI>idcli-9</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-19</IDTAR>
+		<DES>Comprar macetas</DES>
+		<IDCLI>idcli-2</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-2</IDTAR>
+		<DES>Felicitar a la prima el 7 de agosto</DES>
+		<IDCLI>idcli-2</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-20</IDTAR>
+		<DES>Recolectar la cosecha</DES>
+		<IDCLI>idcli-9</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-21</IDTAR>
+		<DES>Regar las plantas</DES>
+		<IDCLI>idcli-1</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-22</IDTAR>
+		<DES>Barrer la pergola</DES>
+		<IDCLI>idcli-6</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-23</IDTAR>
+		<DES>Tomar algo con mi primo</DES>
+		<IDCLI>idcli-2</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-24</IDTAR>
+		<DES>Acudir a la cita médica el 9 de septiembre</DES>
+		<IDCLI>idcli-7</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-25</IDTAR>
+		<DES>Fumigar el atico</DES>
+		<IDCLI>idcli-4</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-3</IDTAR>
+		<DES>Viajar a Cadiz el 9 de septiembre</DES>
+		<IDCLI>idcli-3</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-4</IDTAR>
+		<DES>Llamar a mi tio el 18 de junio</DES>
+		<IDCLI>idcli-4</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-5</IDTAR>
+		<DES>Recoger a mi nieto el 24 de octubre</DES>
+		<IDCLI>idcli-5</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-6</IDTAR>
+		<DES>Hacer regalo a mi amigo Carlos el 4 de noviembre</DES>
+		<IDCLI>idcli-6</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-7</IDTAR>
+		<DES>Comprar comida al gato el 14 de febrero</DES>
+		<IDCLI>idcli-7</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-8</IDTAR>
+		<DES>Sacar mañana al perro del vecino</DES>
+		<IDCLI>idcli-8</IDCLI>
+	</ROW>
+
+	<ROW>
+		<IDTAR>idtar-9</IDTAR>
+		<DES>Llamar al servicio técnico el 4 de marzo</DES>
+		<IDCLI>idcli-9</IDCLI>
+	</ROW>
+</DATA>

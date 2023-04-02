@@ -1,0 +1,52 @@
+<DATA>
+
+	<ROW>
+		<IDCLI>idcli-1</IDCLI>
+		<NOMCLI>Raul</NOMCLI>
+	</ROW>
+
+	<ROW>
+		<IDCLI>idcli-10</IDCLI>
+		<NOMCLI>Antonio</NOMCLI>
+	</ROW>
+
+	<ROW>
+		<IDCLI>idcli-2</IDCLI>
+		<NOMCLI>Laura</NOMCLI>
+	</ROW>
+
+	<ROW>
+		<IDCLI>idcli-3</IDCLI>
+		<NOMCLI>Alberto</NOMCLI>
+	</ROW>
+
+	<ROW>
+		<IDCLI>idcli-4</IDCLI>
+		<NOMCLI>Manuel</NOMCLI>
+	</ROW>
+
+	<ROW>
+		<IDCLI>idcli-5</IDCLI>
+		<NOMCLI>Maria</NOMCLI>
+	</ROW>
+
+	<ROW>
+		<IDCLI>idcli-6</IDCLI>
+		<NOMCLI>Roberto</NOMCLI>
+	</ROW>
+
+	<ROW>
+		<IDCLI>idcli-7</IDCLI>
+		<NOMCLI>Alejandra</NOMCLI>
+	</ROW>
+
+	<ROW>
+		<IDCLI>idcli-8</IDCLI>
+		<NOMCLI>Jose</NOMCLI>
+	</ROW>
+
+	<ROW>
+		<IDCLI>idcli-9</IDCLI>
+		<NOMCLI>Virginia</NOMCLI>
+	</ROW>
+</DATA>
